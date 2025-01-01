@@ -1,6 +1,10 @@
 ## 👋 Hi There, I'm Ram Varanasi !!
 
-Welcome to my GitHub profile! I'm a seasoned **Software Developer** with expertise in **Spring Boot**, **FastAPI**, **Microservices architecture**, **Distributed Systems**and **AI/ML** integrations. I enjoy building scalable and resilient systems that solve real-world problems.
+Welcome to my GitHub profile! 
+
+I'm a seasoned **Software Developer** with expertise in **Spring Boot**, **FastAPI**, **Microservices architecture**, **Distributed Systems**and **AI/ML** integrations. 
+
+I enjoy building scalable and resilient systems that solve real-world problems.
 
 ---
 
@@ -11,11 +15,6 @@ Welcome to my GitHub profile! I'm a seasoned **Software Developer** with experti
 - **Distributed Systems**: Event Driven Architecture, Apache Kafka, ActiveMQ, SNS, SQS, Kinesis streams
 - **Microservices**: System Design, RESTful APIs, HTTP, JSON, Redis Cache, OAuth2.0, Message Queues
 - **Databases**: Oracle, DB2, PostgreSQL ; NoSQL - Cassandra, MongoDB ; Test-driven development (TDD)
----
-
-## 🚀 Projects
-- [**Spring AI**](https://github.com/vramakrishnaparjanya/Spring_AI): A Spring Boot application integrating AI models with REST APIs.
-- [**Microservices with FastAPI**](https://github.com/vramakrishnaparjanya/microservices-with-fastapi): A microservices architecture using FastAPI and Redis Streams.
 
 ---
 
