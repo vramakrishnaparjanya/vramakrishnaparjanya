@@ -20,7 +20,7 @@ I enjoy building scalable and resilient systems that solve real-world problems.
 
 ## 📝 Recent Blog Posts
 Check out my technical writings on Medium:
-- [**Exploring Spring AI — Ollama & Stability AI**]([https://vramakrishnaparjanya.medium.com/microservices-using-fastapi-and-redis-streams-f15c09206b0e](https://vramakrishnaparjanya.medium.com/exploring-spring-ai-ollama-stability-ai-a91ab08eee6b))
+- [**Exploring Spring AI — Ollama & Stability AI**](https://vramakrishnaparjanya.medium.com/exploring-spring-ai-ollama-stability-ai-a91ab08eee6b)
 - [**Microservices using FastAPI and Redis Streams**](https://vramakrishnaparjanya.medium.com/microservices-using-fastapi-and-redis-streams-f15c09206b0e)
 
 ---
