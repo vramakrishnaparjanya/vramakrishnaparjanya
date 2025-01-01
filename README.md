@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 
 
-I'm a seasoned **Software Developer** with expertise in **Spring Boot**, **FastAPI**, **Microservices architecture**, **Distributed Systems**and **AI/ML** integrations. 
+I'm a seasoned **Software Developer** with expertise in **Spring Boot**, **FastAPI**, **Microservices architecture**, **Distributed Systems** and **AI/ML** integrations. 
 
 I enjoy building scalable and resilient systems that solve real-world problems.
 
