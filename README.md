@@ -13,7 +13,6 @@ I enjoy building scalable and resilient systems that solve real-world problems.
 - **Frameworks**:  Spring Boot, Spring MVC, Micronaut, FastAPI, Flask, Langchain, React, JUnit
 - **Developer/ DevOps Tools**: Git, Docker, AWS, Terraform, Liquibase, Maven, Splunk, Jmeter, Jenkins, Linux
 - **Distributed Systems**: Event Driven Architecture, Apache Kafka, ActiveMQ, SNS, SQS, Kinesis streams
-- **Microservices**: System Design, RESTful APIs, HTTP, JSON, Redis Cache, OAuth2.0, Message Queues
 - **Databases**: Oracle, DB2, PostgreSQL ; NoSQL - Cassandra, MongoDB ; Test-driven development (TDD)
 
 ---
